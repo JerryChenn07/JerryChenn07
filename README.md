@@ -10,8 +10,8 @@
 ### 👀 Active Repo
 <br />
 <p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=JerryChenn07&repo=davinci&theme=radical" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=JerryChenn07&repo=metabase&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=JerryChenn07&repo=CrawlUtils&theme=radical" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=JerryChenn07&repo=Scrapy-Summary&theme=radical" />
 </p>
 
 <!--
