@@ -4,7 +4,7 @@
 
 ### About me 👀
 
-- 🔭 I’m currently working on Spider.
+- 🔭 I’m currently working in Web development and Spider.
 
 
 ### Languages and Tools 💻
